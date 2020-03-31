@@ -4,3 +4,6 @@ c:\users\alex\documents\visual studio 2015\Projects\SimpleOperationsCalculations
 c:\users\alex\documents\visual studio 2015\Projects\SimpleOperationsCalculations - Lab\SimpleOperationsCalculations - Lab\obj\Debug\SimpleOperationsCalculations - Lab.csprojResolveAssemblyReference.cache
 c:\users\alex\documents\visual studio 2015\Projects\SimpleOperationsCalculations - Lab\SimpleOperationsCalculations - Lab\obj\Debug\SimpleOperationsCalculations - Lab.exe
 c:\users\alex\documents\visual studio 2015\Projects\SimpleOperationsCalculations - Lab\SimpleOperationsCalculations - Lab\obj\Debug\SimpleOperationsCalculations - Lab.pdb
+C:\Users\alex\Desktop\C#\c-sharp-basics\2. Simple operations and calculations\SimpleOperationsCalculations - Lab\SimpleOperationsCalculations - Lab\bin\Debug\SimpleOperationsCalculations - Lab.exe.config
+C:\Users\alex\Desktop\C#\c-sharp-basics\2. Simple operations and calculations\SimpleOperationsCalculations - Lab\SimpleOperationsCalculations - Lab\obj\Debug\SimpleOperationsCalculations - Lab.exe
+C:\Users\alex\Desktop\C#\c-sharp-basics\2. Simple operations and calculations\SimpleOperationsCalculations - Lab\SimpleOperationsCalculations - Lab\obj\Debug\SimpleOperationsCalculations - Lab.pdb

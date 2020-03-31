@@ -11,23 +11,23 @@ namespace SimpleOperationsCalculations___Lab
         static void Main(string[] args)
         {
             // Task 1
-            //string name = Console.ReadLine();
-            //Console.WriteLine("Hello, " + name);
-            //Console.WriteLine($"Hello {name}" );
+            string name = Console.ReadLine();
+            Console.WriteLine("Hello, " + name);
+            Console.WriteLine($"Hello {name}");
 
             // Task 2
-            //string firstName = Console.ReadLine();
-            //string lastName = Console.ReadLine();
-            //int age = int.Parse(Console.ReadLine());
-            //string town = Console.ReadLine();
-            //Console.WriteLine("You are " + firstName + " " + lastName + ", a " + age + "-years old person from " + town);
-            //Console.WriteLine($"You are {firstName} {lastName}, a {age}-years old person from {town}");
+            string firstName = Console.ReadLine();
+            string lastName = Console.ReadLine();
+            int age = int.Parse(Console.ReadLine());
+            string town = Console.ReadLine();
+            Console.WriteLine("You are " + firstName + " " + lastName + ", a " + age + "-years old person from " + town);
+            Console.WriteLine($"You are {firstName} {lastName}, a {age}-years old person from {town}");
 
             //Task 3
-            //int side = int.Parse(Console.ReadLine());
-            //int result = side * side;
-            ////Console.WriteLine("The result is: {0}", result);
-            //Console.WriteLine("The result is: " + result);
+            int side = int.Parse(Console.ReadLine());
+            int result = side * side;
+            //Console.WriteLine("The result is: {0}", result);
+            Console.WriteLine("The result is: " + result);
 
             //Task 4
             //double number = double.Parse(Console.ReadLine());
