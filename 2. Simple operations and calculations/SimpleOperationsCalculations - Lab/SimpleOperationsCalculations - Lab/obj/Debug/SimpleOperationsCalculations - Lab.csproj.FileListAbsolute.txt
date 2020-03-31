@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2015\Projects\SimpleOperationsCalculations - Lab\SimpleOperationsCalculations - Lab\bin\Debug\SimpleOperationsCalculations - Lab.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\SimpleOperationsCalculations - Lab\SimpleOperationsCalculations - Lab\bin\Debug\SimpleOperationsCalculations - Lab.exe
+c:\users\alex\documents\visual studio 2015\Projects\SimpleOperationsCalculations - Lab\SimpleOperationsCalculations - Lab\bin\Debug\SimpleOperationsCalculations - Lab.pdb
+c:\users\alex\documents\visual studio 2015\Projects\SimpleOperationsCalculations - Lab\SimpleOperationsCalculations - Lab\obj\Debug\SimpleOperationsCalculations - Lab.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\SimpleOperationsCalculations - Lab\SimpleOperationsCalculations - Lab\obj\Debug\SimpleOperationsCalculations - Lab.exe
+c:\users\alex\documents\visual studio 2015\Projects\SimpleOperationsCalculations - Lab\SimpleOperationsCalculations - Lab\obj\Debug\SimpleOperationsCalculations - Lab.pdb
