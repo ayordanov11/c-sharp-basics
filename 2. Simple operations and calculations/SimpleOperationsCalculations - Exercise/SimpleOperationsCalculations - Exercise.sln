@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. SimpleOperationsCalculations - Exercise", "SimpleOperationsCalculations - Exercise\1. SimpleOperationsCalculations - Exercise.csproj", "{0C26CC65-54EE-4239-ACBD-3D51F0D9B4C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. RadiansToDegrees", "2. RadiansToDegrees\2. RadiansToDegrees.csproj", "{A54916E5-D4FB-4B8A-A961-00FDD705C753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C26CC65-54EE-4239-ACBD-3D51F0D9B4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C26CC65-54EE-4239-ACBD-3D51F0D9B4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C26CC65-54EE-4239-ACBD-3D51F0D9B4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C26CC65-54EE-4239-ACBD-3D51F0D9B4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54916E5-D4FB-4B8A-A961-00FDD705C753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54916E5-D4FB-4B8A-A961-00FDD705C753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54916E5-D4FB-4B8A-A961-00FDD705C753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54916E5-D4FB-4B8A-A961-00FDD705C753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
