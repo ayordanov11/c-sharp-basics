@@ -1,0 +1,6 @@
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\5. DanceHall\bin\Debug\_5.DanceHall.exe.config
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\5. DanceHall\bin\Debug\_5.DanceHall.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\5. DanceHall\bin\Debug\_5.DanceHall.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\5. DanceHall\obj\Debug\5. DanceHall.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\5. DanceHall\obj\Debug\_5.DanceHall.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\5. DanceHall\obj\Debug\_5.DanceHall.pdb

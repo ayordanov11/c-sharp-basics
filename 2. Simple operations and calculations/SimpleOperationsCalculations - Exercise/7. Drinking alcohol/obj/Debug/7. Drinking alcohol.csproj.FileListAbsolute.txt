@@ -1,0 +1,6 @@
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\7. Drinking alcohol\bin\Debug\_7.Drinking_alcohol.exe.config
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\7. Drinking alcohol\bin\Debug\_7.Drinking_alcohol.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\7. Drinking alcohol\bin\Debug\_7.Drinking_alcohol.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\7. Drinking alcohol\obj\Debug\7. Drinking alcohol.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\7. Drinking alcohol\obj\Debug\_7.Drinking_alcohol.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\7. Drinking alcohol\obj\Debug\_7.Drinking_alcohol.pdb

@@ -3,9 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. SimpleOperationsCalculations - Exercise", "SimpleOperationsCalculations - Exercise\1. SimpleOperationsCalculations - Exercise.csproj", "{0C26CC65-54EE-4239-ACBD-3D51F0D9B4C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. DollarsToLeva", "SimpleOperationsCalculations - Exercise\1. DollarsToLeva.csproj", "{0C26CC65-54EE-4239-ACBD-3D51F0D9B4C9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. RadiansToDegrees", "2. RadiansToDegrees\2. RadiansToDegrees.csproj", "{A54916E5-D4FB-4B8A-A961-00FDD705C753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Drinking alcohol", "7. Drinking alcohol\7. Drinking alcohol.csproj", "{8619A3D3-E893-442E-8F93-A89A6C0395A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. DanceHall", "5. DanceHall\5. DanceHall.csproj", "{4B04EE0A-4758-4947-B000-73D5F69867D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Charity campaign", "6. Charity campaign\6. Charity campaign.csproj", "{96DD4C35-422F-424A-A0B2-DD199ADE4DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Rectangle area", "3. Rectangle area\3. Rectangle area.csproj", "{981E2268-5A3B-4DAA-907D-9EF45BD24FF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{A54916E5-D4FB-4B8A-A961-00FDD705C753}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A54916E5-D4FB-4B8A-A961-00FDD705C753}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A54916E5-D4FB-4B8A-A961-00FDD705C753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8619A3D3-E893-442E-8F93-A89A6C0395A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8619A3D3-E893-442E-8F93-A89A6C0395A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8619A3D3-E893-442E-8F93-A89A6C0395A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8619A3D3-E893-442E-8F93-A89A6C0395A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B04EE0A-4758-4947-B000-73D5F69867D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B04EE0A-4758-4947-B000-73D5F69867D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B04EE0A-4758-4947-B000-73D5F69867D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B04EE0A-4758-4947-B000-73D5F69867D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DD4C35-422F-424A-A0B2-DD199ADE4DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DD4C35-422F-424A-A0B2-DD199ADE4DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DD4C35-422F-424A-A0B2-DD199ADE4DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DD4C35-422F-424A-A0B2-DD199ADE4DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{981E2268-5A3B-4DAA-907D-9EF45BD24FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981E2268-5A3B-4DAA-907D-9EF45BD24FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981E2268-5A3B-4DAA-907D-9EF45BD24FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981E2268-5A3B-4DAA-907D-9EF45BD24FF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

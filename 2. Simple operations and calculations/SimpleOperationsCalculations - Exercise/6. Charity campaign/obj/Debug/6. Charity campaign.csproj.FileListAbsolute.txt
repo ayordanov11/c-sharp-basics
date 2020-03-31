@@ -1,0 +1,6 @@
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\6. Charity campaign\bin\Debug\_6.Charity_campaign.exe.config
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\6. Charity campaign\bin\Debug\_6.Charity_campaign.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\6. Charity campaign\bin\Debug\_6.Charity_campaign.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\6. Charity campaign\obj\Debug\6. Charity campaign.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\6. Charity campaign\obj\Debug\_6.Charity_campaign.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\6. Charity campaign\obj\Debug\_6.Charity_campaign.pdb

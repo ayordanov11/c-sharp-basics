@@ -1,0 +1,3 @@
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\SimpleOperationsCalculations - Exercise\bin\Debug\SimpleOperationsCalculations - Exercise.exe.config
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\SimpleOperationsCalculations - Exercise\obj\Debug\SimpleOperationsCalculations - Exercise.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\SimpleOperationsCalculations - Exercise\SimpleOperationsCalculations - Exercise\obj\Debug\SimpleOperationsCalculations - Exercise.pdb
